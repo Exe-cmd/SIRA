@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages1regegdgrtggrd
+## Welcome to the SIRA Project
 
 You can use the [editor on GitHub](https://github.com/Exe-cmd/SIRA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
