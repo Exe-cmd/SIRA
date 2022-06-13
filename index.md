@@ -19,7 +19,9 @@ http://127.0.0.1:8000/SIRA.html
 Sira Alerts serve as single pane of glass for all of your security tools. Sira automates the way you turn alerts into tickets for task management and then into incidents for reporting. 
 ![Sira Alerts](/SIRA/docs/assets/SIRAalerts.png)
 ![Sira Tickets](/SIRA/docs/assets/SIRAtickets.png)
-
+![Sira Automate](/SIRA/docs/assets/SIRAautomate.png)
+![Sira Intel](/SIRA/docs/assets/SIRAintel.png)
+![Sira Settings](/SIRA/docs/assets/SIRAsettings.png)
 
 
 
