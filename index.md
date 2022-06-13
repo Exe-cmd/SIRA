@@ -1,8 +1,55 @@
 ## Welcome to the SIRA Project
 
+SIRA is an open source SOAR, Case manaement and Threat intel Platform all in one.
+
+Sira acts as an agent between your Ticketing System, SIEM, Wiki, EDR, IDS, Firewall, and many more using your own scripts to automate and integrate your SOC. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/Exe-cmd/SIRA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
 
