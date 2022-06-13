@@ -17,7 +17,7 @@ http://127.0.0.1:8000/SIRA.html
 ```
 ### SIRA Project
 
-
+![Book logo](/SIRA/assets/SIRAalerts.png)
 
 
 
