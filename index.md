@@ -16,7 +16,7 @@ Access the Sira on port 8000/SIRA.html
 http://127.0.0.1:8000/SIRA.html
 ```
 ### SIRA Project
-
+Sira Alerts serve as single pane of glass for all your 
 ![Sira Alerts](/SIRA/docs/assets/SIRAalerts.png)
 
 
