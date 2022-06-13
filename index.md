@@ -8,11 +8,13 @@ Sira acts as an agent between your Ticketing System, SIEM, Wiki, EDR, IDS, Firew
 Clone the SIRA repository to your linux box. 
 
 Run the python Webserver
+```markdown
 python3 -m http.server --directory /home/kali/SIRA
-
+```
 Access the Sira on port 8000/SIRA.html
+```markdown
 http://127.0.0.1:8000/SIRA.html
-
+```
 ### SIRA Project
 
 
